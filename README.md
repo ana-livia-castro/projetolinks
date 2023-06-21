@@ -49,7 +49,7 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-O projeto foi feito com ♥ pela Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat) (RECOMENDO ♥) 
+O projeto foi feito com ♥ pela Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat) (RECOMENDO ♥) 
 
 Agradeço a Rocketseat e ao instrutor @MaykBrito pelo curso ♥
 
